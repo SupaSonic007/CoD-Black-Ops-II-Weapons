@@ -1,0 +1,3 @@
+# Exclude DB file and createTables sql file
+/BlackOpsII-Weapons.db
+/createTables.sql
