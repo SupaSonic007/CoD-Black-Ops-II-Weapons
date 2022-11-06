@@ -3,8 +3,9 @@
  Don't use datascrapeOld.py, it won't work, instead use datascrape.py to scrape data
 
  Instructions:
- Create a db file (Name doesn't really matter)
- Run `pip install bs4`
- Run `datascrape.py`
- Run `createTables.sql`
+ 1. Create a db file (Name doesn't really matter)
+ 2. Run `pip install bs4`
+ 3. Run `datascrape.py`
+ 4. Run `createTables.sql`
+ 
  Database created and example queries can be found in `exampleQueries.sql`
