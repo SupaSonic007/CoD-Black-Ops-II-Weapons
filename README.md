@@ -9,3 +9,5 @@
  4. Run `createTables.sql`
  
  Database created and example queries can be found in `exampleQueries.sql`
+
+ Code commenting also to come
