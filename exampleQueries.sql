@@ -44,3 +44,7 @@ WHERE a.ID == ac.AttachmentID and ac.ClassID == c.ID and w.Class == c.ID and a.N
 Select w.Name, w.Damage
 FROM WEAPON w, CLASS c
 WHERE w.Class = c.ID and c.Name == "Wonder Weapon";
+
+-- All Attachments
+Select *
+FROM ATTACHMENT;
