@@ -4,7 +4,7 @@
 
  Instructions:
  1. Create a db file (Name doesn't really matter)
- 2. Run `pip install bs4`
+ 2. Run `pip install -r requirements.txt`
  3. Run `datascrape.py`
  4. Run `createTables.sql`
  
